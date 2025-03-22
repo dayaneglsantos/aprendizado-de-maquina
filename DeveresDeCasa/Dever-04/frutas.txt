@@ -1,0 +1,9 @@
+Maçã: 72
+Banana: 36
+Laranja: 3
+Uva: 16
+Maçã: 84
+Melão: 28
+Mamão: 15
+Banana: 100
+
